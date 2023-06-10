@@ -4,10 +4,13 @@
 
 Welcome to the Deno KV Hackathon!
 
-For more information, check out the [announcement blog post]().
+For more information, check out the
+[announcement blog post](https://deno.com/blog/deno-kv-hackathon).
 
 The hackathon will run from **Monday, June 12th, 10am PT to Thursday, June 15th,
 12pm PT**.
+
+[Submit your project here](https://github.com/denoland/deno-kv-hackathon/issues/new?assignees=&labels=&projects=&template=project-submission.md&title=%5BProject+or+Team+Name%5D).
 
 ## Categories and Prizes
 
@@ -35,8 +38,9 @@ And all winning teams will receive...
 
 ## Submission Rules
 
-To be eligible for judging, you must submit your project [here] by Thursday 12pm
-Pacific Time and adhere to the following rules:
+To be eligible for judging, you must submit your project
+[here](https://github.com/denoland/deno-kv-hackathon/issues/new?assignees=&labels=&projects=&template=project-submission.md&title=%5BProject+or+Team+Name%5D)
+by Thursday 12pm Pacific Time and adhere to the following rules:
 
 - Uses [Deno KV](/kv) and deployed on [Deno Deploy](/deploy)
 - Open sourced on GitHub
@@ -44,7 +48,3 @@ Pacific Time and adhere to the following rules:
 - Team size can be 1 person to 5 people
 - You cannot be on multiple teams
 - All code must be created during the event
-
-## How to Submit
-
-Create an issue on this repo.
