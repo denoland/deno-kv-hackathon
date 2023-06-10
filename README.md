@@ -1,4 +1,4 @@
-![Deno Hackathon]()
+![Deno Hackathon](https://github.com/denoland/deno-kv-hackathon/blob/main/static/cover.png)
 
 # Deno KV Hackathon
 
@@ -23,15 +23,15 @@ And all winning teams will receive...
 
 **Our new Deno KV sticker set:**
 
-![Deno KV sticker set]()
+![Deno KV sticker set](https://github.com/denoland/deno-kv-hackathon/blob/main/static/prize-deno-kv-sticker-set.png)
 
 **A Deno pocket tee:**
 
-![A Deno pocket tee]()
+![A Deno pocket tee](https://github.com/denoland/deno-kv-hackathon/blob/main/static/prize-deno-pocket-tee.png)
 
 **A Deno KV floppy disk USB drive (16GB):**
 
-![A Deno KV floppy disk]()
+![A Deno KV floppy disk](https://github.com/denoland/deno-kv-hackathon/blob/main/static/prize-deno-kv-floppy-disk.png)
 
 ## Submission Rules
 
