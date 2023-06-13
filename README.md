@@ -42,7 +42,7 @@ To be eligible for judging, you must submit your project
 [here](https://github.com/denoland/deno-kv-hackathon/issues/new?assignees=&labels=&projects=&template=project-submission.md&title=%5BProject+or+Team+Name%5D)
 by Thursday 12pm Pacific Time and adhere to the following rules:
 
-- Uses [Deno KV](/kv) and deployed on [Deno Deploy](/deploy)
+- Uses [Deno KV](https://deno.com/kv) and deployed on [Deno Deploy](https://deno.com/deploy)
 - Open sourced on GitHub
 - One submission per team
 - Team size can be 1 person to 5 people
